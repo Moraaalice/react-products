@@ -1,0 +1,24 @@
+.displayProducts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: solid;
+    background-color: antiquewhite;
+} 
+.view{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: blue;
+}
+.images{
+    border: solid blue;
+    border-radius: 10px;
+    margin-top: 10%;   
+    margin-bottom: 4%;
+    border-radius: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 350px;
+    height: 250px;
+}
+
